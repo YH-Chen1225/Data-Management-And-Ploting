@@ -1,5 +1,6 @@
 # Exercise Data Management and Plotting
 
+This excercise is done by MosesChen, GeweiCao, ZihanYang, YingyuWu, XingyueWang
 ## General Notes
 
 
